@@ -1,2 +1,2 @@
 elastic/filebeat:8.14.1
-estrellaxd/auto_bangumi:latest
+estrellaxd/auto_bangumi:latest --platform=arm64
